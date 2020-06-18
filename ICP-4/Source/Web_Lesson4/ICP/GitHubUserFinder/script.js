@@ -21,6 +21,8 @@ function showUser(user) {
 
 function noSuchUser(user) {
     document.querySelector("#profile h2").innerHTML = "Profile not found";
+    document.querySelector("#profile .information").innerHTML = "";
+    document.querySelector("#profile .avatar").innerHTML = "";
     //3. set the elements such that a suitable message is displayed
 }
 
