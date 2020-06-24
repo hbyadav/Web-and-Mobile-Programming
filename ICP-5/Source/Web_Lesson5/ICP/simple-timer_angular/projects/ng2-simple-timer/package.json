@@ -11,15 +11,8 @@
 	},
 	"description": "Angular simple timer service",
 	"author": {
-		"name": "John, Sing Dao, Siu",
-		"url": "https://github.com/J-Siu"
-	},
-	"bugs": {
-		"url": "https://github.com/J-Siu/ng2-simple-timer-lib/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/J-Siu/ng2-simple-timer-lib.git"
+		"name": "Hari Yadav",
+		"url": "https://github.com/hbyadav/Web-and-Mobile-Programming/tree/master/ICP-5/Source/Web_Lesson5/ICP/simple-timer_angular"
 	},
 	"keywords": [
 		"angular",
