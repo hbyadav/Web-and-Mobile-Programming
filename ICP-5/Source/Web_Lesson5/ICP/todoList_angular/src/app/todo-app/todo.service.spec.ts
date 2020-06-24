@@ -16,11 +16,11 @@ describe('Todo Service', () => {
 
   describe('#getAllTodos()', () => {
 
-    it('应该默认返回一个空数组', inject([TodoService], (service: TodoService) => {
+    it('', inject([TodoService], (service: TodoService) => {
       expect(service.getAllTodos()).toEqual([]);
     }));
 
-    it('应该返回所有待办事项', inject([TodoService], (service: TodoService) => {
+    it('', inject([TodoService], (service: TodoService) => {
       const todo1 = new Todo({ value: 'Hello 1', done: false });
       const todo2 = new Todo({ value: 'Hello 2', done: true });
       service.addTodo(todo1);
