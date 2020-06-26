@@ -56,7 +56,7 @@ export class SearchRecipeComponent implements OnInit {
       this._http.get(this.placeApi + this.placeValue+ '&limit=10&section=' + this.recipeValue + this.clientId + this.clientSecret + this.version).subscribe((place:any) => {
         this.venueList = Object.keys(place.response.groups[0].items).map(function (k) {
           const i = place.response.groups[0].items[k].venue;
-          return {name: i.name, address: i.location.address+", "+i.location.formattedAddress[2]+","+i.location.formattedAddress[3]};
+          return {name: i.name, address: i.location.address+","+i.location.formattedAddress[2]+","+i.location.formattedAddress[3]};
         })
       });
     }
