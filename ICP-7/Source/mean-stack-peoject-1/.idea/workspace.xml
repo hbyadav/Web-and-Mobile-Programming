@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af2a88b0-6d96-4c09-a947-c85fa4a17f8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/Branch creation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/Webstrom1 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/Webstrom1 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/clone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/fork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/readme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Documentation/repo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/.idea/Online Book Store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/s.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/lib/order_client.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/addbook.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/browsebooks.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/changeprofile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/changeprofile.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/deleteorder.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/gohome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/image.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/listbooks.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/logout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/OrderBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/OrderHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/Se.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/build/META-INF/ejb-jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/build/META-INF/weblogic-ejb-jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/build/obs/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/build/obs/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/build/obs/order/OrderBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/build/obs/order/OrderHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/ejb-jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/examples.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/setclientenv.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/order/weblogic-ejb-jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/orderitems.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/ordershistory.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/querybooks.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Online Book Store Project in JAVA/Online Book Store/tables.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/Demo-master/Source/Web_ICP1/Index.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-angular-7-crud-app-example-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/.idea/mean-stack-peoject-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/backend/database/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/backend/models/Employee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/backend/routes/employee.route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/backend/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-create/employee-create.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-create/employee-create.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-create/employee-create.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-create/employee-create.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-edit/employee-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-edit/employee-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-edit/employee-edit.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-edit/employee-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-list/employee-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-list/employee-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-list/employee-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/components/employee-list/employee-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/model/Employee.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/app/service/api.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../project 1/mean-stack-peoject-1/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1duqYglrvyt5IlPJnM7syLNiuj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af2a88b0-6d96-4c09-a947-c85fa4a17f8b" name="Default Changelist" comment="" />
+      <created>1593285374739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593285374739</updated>
+      <workItem from="1593285377531" duration="1060000" />
+      <workItem from="1593484302187" duration="6892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="182" key="GridCell.Tab.0.bottom" timestamp="1593286603506">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1593286603506" />
+    <state width="1259" height="182" key="GridCell.Tab.0.center" timestamp="1593286603505">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1593286603505" />
+    <state width="1259" height="182" key="GridCell.Tab.0.left" timestamp="1593286603504">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1593286603504" />
+    <state width="1259" height="182" key="GridCell.Tab.0.right" timestamp="1593286603505">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1593286603505" />
+  </component>
+</project>
