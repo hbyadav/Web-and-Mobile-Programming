@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">My Pizza Order</string>
+    <string name="name">Name</string>
+    <string name="toppings">Choose your toppings</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="sausage">Sausage</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="spinach">Spinach</string>
+    <string name="quantity">Number of Pizzas</string>
+    <string name="initial_quantity_value">1</string>
+    <string name="order">Order</string>
+    <string name="order_summary_name">Name: <xliff:g example="Jeff P." id="name">%s</xliff:g></string>
+    <string name="order_summary_email">Email: <xliff:g example="abc@gmail.com" id="email">%s</xliff:g></string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="order_summary_pepperoni">Add Pepperoni? <xliff:g example="yes" id="addPepperoni">%s</xliff:g></string>
+    <string name="order_summary_sausage">Add Sausage? <xliff:g example="yes" id="addSausage">%s</xliff:g></string>
+    <string name="order_summary_pineapple">Add Pineapple? <xliff:g example="yes" id="addPineapple">%s</xliff:g></string>
+    <string name="order_summary_spinach">Add Spinach? <xliff:g example="yes" id="addSpinach">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_total_price">Total: $ <xliff:g example="10" id="price">%.2f</xliff:g></string>
+    <string name="thank_you">Thank you for your order!</string>
+    <string name="overload">Sorry! You can\'t order more than 30 pizzas at a time.</string>
+    <string name="underload">Please choose at least one pizza to proceed with your order.</string>
+    <string name="summary">Order Summary</string>
+</resources>

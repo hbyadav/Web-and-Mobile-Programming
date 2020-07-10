@@ -1,0 +1,56 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8DFFDF8E"
+    tools:context=".OrderSummary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        tools:context="com.example.vijaya.myorder.MainActivity">
+
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:layout_width="302dp"
+            android:layout_height="51dp"
+            android:text="@string/summary"
+            android:textColor="#FB3D3D"
+            android:textSize="25sp"
+            android:typeface="sans"
+            app:fontFamily="sans-serif-light" />
+                                <!--blank text view to be populated with order summary-->
+        <TextView
+            android:id="@+id/summaryContent"
+            style="@style/HeaderTextStyle"
+            android:layout_width="302dp"
+            android:layout_height="158dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@android:color/black"
+            android:textSize="22sp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/pizza"
+            android:layout_marginTop="20dp"/>
+
+        <Button
+            android:layout_width="174dp"
+            android:layout_height="66dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="0"
+            android:background="#40FB3D3D"
+            android:onClick="goToOrder"
+            android:text="Back to Order"
+            android:textSize="25sp" />
+
+    </LinearLayout>
+</ScrollView>
