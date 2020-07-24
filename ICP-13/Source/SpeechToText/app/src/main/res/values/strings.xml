@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medical Assistant</string>
+    <string name="hint">Tap on mic to start</string>
+    <string name="greeting">Hello, what is your name?</string>
+    <string name="symptoms">I can understand. Please tell your symptoms in short.</string>
+    <string name="thankYou">Thank you too </string>
+    <string name="takeCare"> Take care!</string>
+    <string name = "time">The time is </string>
+    <string name="fever">I think you have a fever. Please take this medicine.</string>
+</resources>
